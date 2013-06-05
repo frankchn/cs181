@@ -4,7 +4,7 @@
 
 .jumbotron {
   position: relative;
-  padding: 40px 0;
+  padding-top: 20px;
   margin-top: 51px;
   color: #fff;
   text-align: center;
@@ -45,4 +45,16 @@
 .jumbotron a:hover {
   color: #fff;
   text-shadow: 0 0 10px rgba(255,255,255,.25);
+}
+
+.container {
+  text-align:justify;
+}
+
+.container-introduction {
+  padding-top:10px;
+}
+
+.container-content {
+  
 }
